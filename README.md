@@ -9,3 +9,5 @@ Graphing calculator
 Simple pong-like game
 ## Snake
 Snake-game clone in Java (WIP)
+## Gravity
+Gravity simulation on bouncing balls
