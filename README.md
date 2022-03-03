@@ -1,7 +1,9 @@
 # Processing Projects
 Collection of projects written in Python using [Processing v3](https://processing.org/)
 
-## Circle.pde
+## Circle
 Creates a perfect circle using only individual points instead of the built-in `circle()` function.
-## Graphing.pde
+## Graphing
 Graphing calculator
+## Pong
+Simple pong-like game
