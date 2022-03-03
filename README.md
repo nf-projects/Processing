@@ -7,3 +7,5 @@ Creates a perfect circle using only individual points instead of the built-in `c
 Graphing calculator
 ## Pong
 Simple pong-like game
+## Snake
+Snake-game clone in Java (WIP)
