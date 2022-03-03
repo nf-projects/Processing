@@ -3,3 +3,5 @@ Collection of projects written in Python using [Processing v3](https://processin
 
 ## Circle.pde
 Creates a perfect circle using only individual points instead of the built-in `circle()` function.
+## Graphing.pde
+Graphing calculator
